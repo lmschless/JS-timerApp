@@ -1,4 +1,4 @@
-# Project Title
+# Vanilla JS timer app with UI.
 
 Javascript timer app. Takes seconds or minutes input, counts down and alerts.
 
